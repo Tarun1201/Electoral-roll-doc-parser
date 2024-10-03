@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pytesseract
+Pillow
+opencv-python
+python-Levenshtein
+tabulate
+pandas
